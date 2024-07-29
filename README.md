@@ -1,0 +1,1 @@
+This project displays the prices of fruits sold in a fruit store to the user and prints the price of the selected fruit to the screen. The project is implemented in two different ways using both "if" and "switch" decision structures.
